@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cjU6K/4lR2+FkpQNeidyLbjCdubuSuuc/Sbw5t2OoQA9Ks9eZrya7+gVvN+BC5cyzfkIABD7tCDE/0Sw8hQCbw==",
+  "dgSpecHash": "OVmhC9YDSSAK8hYKXiqh9HKsjRFYzNyFmB4Bmm5qyV0EZ+gTzbWGeZKZYPN5B5aTO9+iFng9Pn6KrMkcFezeVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TecSysteN\\source\\repos\\ApiDashboard\\ApiDashboard\\ApiDashboard.csproj",
+  "projectFilePath": "C:\\Users\\TecSysteN\\Source\\Repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TecSysteN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TecSysteN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",
