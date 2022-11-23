@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\ApiDashboard",
-    "\\ApiDashboard\\Context"
+    "\\ApiDashboard\\Context",
+    "\\ApiDashboard\\Controllers",
+    "\\ApiDashboard\\ViewModels"
   ],
-  "SelectedNode": "\\ApiDashboard\\appsettings.json",
+  "SelectedNode": "\\ApiDashboard\\ViewModels\\RegisterModel.cs",
   "PreviewInSolutionExplorer": false
 }
