@@ -6,6 +6,6 @@
     "\\ApiDashboard\\Controllers",
     "\\ApiDashboard\\ViewModels"
   ],
-  "SelectedNode": "\\ApiDashboard\\ViewModels\\RegisterModel.cs",
+  "SelectedNode": "\\ApiDashboard\\Controllers\\CardController.cs",
   "PreviewInSolutionExplorer": false
 }

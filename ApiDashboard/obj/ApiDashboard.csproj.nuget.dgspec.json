@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TecSysteN\\Source\\Repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj": {}
+    "C:\\Users\\TecSysteN\\source\\repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TecSysteN\\Source\\Repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj": {
+    "C:\\Users\\TecSysteN\\source\\repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TecSysteN\\Source\\Repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj",
+        "projectUniqueName": "C:\\Users\\TecSysteN\\source\\repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj",
         "projectName": "ApiDashboard",
-        "projectPath": "C:\\Users\\TecSysteN\\Source\\Repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj",
+        "projectPath": "C:\\Users\\TecSysteN\\source\\repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\ApiDashboard.csproj",
         "packagesPath": "C:\\Users\\TecSysteN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TecSysteN\\Source\\Repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\obj\\",
+        "outputPath": "C:\\Users\\TecSysteN\\source\\repos\\ferrazlan\\APIRestfulDashboard\\ApiDashboard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
